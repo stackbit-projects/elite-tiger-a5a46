@@ -1,5 +1,5 @@
 ---
-title: Plants from Europe
+title: Plants from Brazil
 layout: category
 order: 3
 seo:
